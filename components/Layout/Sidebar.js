@@ -34,7 +34,7 @@ const Sidebar = () => {
           alt=""
           objectFit="contain"
         />
-        <h1 className="font-bold text-white">Learn Bloom</h1>
+        <h1 className="font-bold text-white">Skill Swap</h1>
       </div>
 
       <ul className="w-full p-3 mt-8 text-base-content menu rounded-box">

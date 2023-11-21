@@ -1,15 +1,11 @@
-<h1 align="center">Learn Bloom Full-Stack Application</h1>
+<h1 align="center">Skill Swap Full-Stack Application</h1>
 <!-- <p align="center"> This is a Linode X Hashnode project built using Next.js and Express deployed on Linode. </p> -->
 
-![Learn Bloom](https://user-images.githubusercontent.com/73209159/176242823-405d5f2f-ba4b-45ee-b898-b3ab110fd075.png)
+![Skill Swap](https://user-images.githubusercontent.com/73209159/176242823-405d5f2f-ba4b-45ee-b898-b3ab110fd075.png)
 
 ## 🔗 Links
 
-<!-- GitHub: [Front-End](https://github.com/mukulrajpoot262610/learnbloom-frontend-hackathon) / [Back-End](https://github.com/alsoamit/learnbloom-api) / [Admin-Panel](https://github.com/mukulrajpoot262610/learnbloom-admin) -->
-
-<!-- Hashnode Article: Coming Soon -->
-
-<!-- Deployed Links: [Front-End](https://learnbloom.tech) / [Back-End](https://api.learnbloom.tech) / [Admin-Panel](https://admin.learnbloom.tech) -->
+Deployed Links: [Front-End](https://skillswap-jet.vercel.app/) / [Back-End](http://localhost:3001) / [Admin-Panel](https://skillswap-admin.vercel.app/)
 
 ## 🏹 Problem
 
@@ -25,7 +21,7 @@ Don't forget, engagement with the community is very important to learn any skill
 
 ## 💡 Solution
 
-Learn Bloom is a website where you can find top-rated tech videos and tutorials in the form of a course.
+Skill Swap is a website where you can find top-rated tech videos and tutorials in the form of a course.
 
 This is how we solve this problem for our fellow developers who are learning to code.
 
@@ -41,7 +37,7 @@ This is how we solve this problem for our fellow developers who are learning to 
 
 In other words,
 
-Learn Bloom helps you sail through the endless ocean of tech resources on YouTube.
+Skill Swap helps you sail through the endless ocean of tech resources on YouTube.
 
 <div align="center">
   

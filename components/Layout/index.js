@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
         <Toaster />
         <main className="flex flex-col items-center justify-center w-full">
           <Head>
-            <title>Learn Bloom Admin Panel</title>
+            <title>Skill Swap Admin Panel</title>
           </Head>
           <div className="flex w-full">
             {router.pathname !== "/" &&
